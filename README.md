@@ -1,6 +1,6 @@
 
  
-### Hi, my name is Marta, a little about me  
+### Hi, my name is Marta, a little about me ... 
 
 💻 Oi Dev, tudo bem? 
 
