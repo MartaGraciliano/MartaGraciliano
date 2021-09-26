@@ -1,19 +1,21 @@
 
  
-### Hi, my name is Marta, a little about me ... 
+### 👋🏻, meu nome é Marta, saiba um pouco sobre mim ...
 
 💻 Oi Dev, tudo bem? 
 
-👱🏻‍♀️ Trabalho como It Recruiter freelancer e estou aqui para te encontrar! 👀
+👩🏼‍💻 Trabalho como It Recruiter e estou aqui para te encontrar! 👀
    
-🔭 I’m currently working like It Recruiter 
+🔭 I’m currently working like It Recruiter freelancer.
  
-🌱 Atualmente estou aprendendo sobre tecnologia para RH, tenha paciência. 😉
+🌱 Atualmente estou estudando e aprendendo muito sobre tecnologia para RH, tenha paciência. 😉
 
-🏢 #OpenToWork ✅ 
-  
-😄 Pronouns: She /  Dela
-  
+🏢 Empresas, estou #OpenToWork ✅ 
+
+♀️ Pronouns: She /  Dela
+
+📌 Curto tecnologia 💻, trilha ⛰, rapel 🧗‍♀️, séries e filmes 📺, animais, em especial, my dogs 🐕🐕, poesia... ahhh... eu amo ler poesia (só não me pergunte nome de livros, porque eu esqueço) 📚 curto tantas outras coisas, que aqui, não caberia. Mentira, caberiam sim! 😜:trollface:
+ 
 📫 Quer falar comigo? Clique aqui ↙
 
   
