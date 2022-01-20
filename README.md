@@ -6,7 +6,7 @@
 
 👩🏼‍💻 Trabalho como It Recruiter e estou aqui para te encontrar! 👀
    
-🔭 Procuro por um trabalho de Tech Recuiter CLT. 
+🔭 Procuro por um trabalho de Tech Recruiter/It Recruiter CLT. 
  
 🌱 Atualmente estou estudando e aprendendo muito sobre tecnologia para RH, tenha paciência. 😉
 
