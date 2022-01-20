@@ -6,7 +6,7 @@
 
 👩🏼‍💻 Trabalho como It Recruiter e estou aqui para te encontrar! 👀
    
-🔭 I’m currently working like It Recruiter freelancer.
+🔭 Procuro por um trabalho CLT. 
  
 🌱 Atualmente estou estudando e aprendendo muito sobre tecnologia para RH, tenha paciência. 😉
 
