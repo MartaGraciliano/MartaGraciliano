@@ -2,17 +2,17 @@
  
 ### 👋🏻, meu nome é Marta, saiba um pouco sobre mim ...
 
-💻 Oi Dev, tudo bem? 
+💻 Oi, tudo bem? 
 
-👩🏼‍💻 Trabalho como It Recruiter e estou aqui para te encontrar! 👀
+👩🏼‍💻 Trabalho como It Recruiter e estou aqui para encontrar os melhores talentos! 👀
    
 🔭 Procuro por um trabalho de Tech Recruiter/It Recruiter CLT. 
  
-🌱 Atualmente estou estudando e aprendendo muito sobre tecnologia para RH, tenha paciência. 😉
+🌱 Atualmente estou estudando e aprendendo muito sobre It Recruiter, tenha paciência. 😉
 
 🏢 Empresas, estou #OpenToWork ✅ 
 
-♀️ Pronouns: She /  Dela
+♀️ Pronouns: Ela / Dela
 
 📌 Curto tecnologia 💻, trilha ⛰, rapel 🧗‍♀️, séries e filmes 📺, animais, em especial, my dogs 🐕🐕, poesia... ahhh... eu amo ler poesia (só não me pergunte nome de livros, porque eu esqueço) 📚 curto tantas outras coisas, que aqui, não caberia. Mentira, caberiam sim! 😜:trollface:
  
