@@ -8,13 +8,13 @@
    
 🔭 Procuro por um trabalho de Tech Recruiter/It Recruiter CLT. 
  
-🌱 Atualmente estou estudando e aprendendo muito sobre It Recruiter, tenha paciência. 😉
+🌱 Atualmente estou estudando e aprendendo muito sobre It Recruiter. 😉
 
 🏢 Empresas, estou #OpenToWork ✅ 
 
 ♀️ Pronouns: Ela / Dela
 
-📌 Curto tecnologia 💻, trilha ⛰, rapel 🧗‍♀️, séries e filmes 📺, animais, em especial, my dogs 🐕🐕, poesia... ahhh... eu amo ler poesia (só não me pergunte nome de livros, porque eu esqueço) 📚 curto tantas outras coisas, que aqui, não caberia. Mentira, caberiam sim! 😜:trollface:
+📌 Curto tecnologia 💻, trilha ⛰, rapel 🧗‍♀️, séries e filmes 📺, animais, em especial, my dogs 🐕🐕, poesia📖... ahhh... eu amo ler poesia (só não me pergunte nome de livros, porque eu esqueço) 📚 curto tantas outras coisas, que aqui, não caberia. Mentira, caberiam sim! 😜:trollface:
  
 📫 Quer falar comigo? Clique aqui ↙
 
