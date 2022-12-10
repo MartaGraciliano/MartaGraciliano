@@ -6,15 +6,17 @@
 
 👩🏼‍💻 Trabalho como It Recruiter e estou aqui para encontrar os melhores talentos! 👀
    
-🔭 Procuro por um trabalho de Tech Recruiter/It Recruiter CLT. 
+🔭 Atualmente trabalho freelance para uma consultoria de tecnologia de Lisboa, a ItRecruiter. 
  
-🌱 Atualmente estou estudando e aprendendo muito sobre It Recruiter. 😉
+🌱 Estou em constante aprendizado.
+   Recentemente fui selecionada para fazer uma trilha de programação em parceria com a @Oracle + @Alura. 
+   Não basta saber recrutar também estou aprendendo a codar. 😉
 
 🏢 Empresas, estou #OpenToWork ✅ 
 
 ♀️ Pronouns: Ela / Dela
 
-📌 Curto tecnologia 💻, trilha ⛰, rapel 🧗‍♀️, séries e filmes 📺, animais, em especial, my dogs 🐕🐕🐕, poesia📖... ahhh... eu amo ler poesia (só não me saber nome de livros, porque eu esqueço) 📚 curto tantas outras coisas, que aqui, não caberia. Mentira, caberiam sim! 😜 :trollface:
+📌 Curto tecnologia 💻, trilha ⛰, rapel 🧗‍♀️, séries e filmes 📺, animais, em especial, my dogs 🐕🐕🐕, poesia📖... ahhh... eu amo ler poesia (só não me pergunte nome de livros, porque eu esqueço) 📚 curto tantas outras coisas, que aqui, não caberia. Mentira, caberiam sim! 😜 :trollface:
  
 📫 Quer falar comigo? Clique aqui ↙
 
