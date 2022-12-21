@@ -3,14 +3,11 @@
 ### 👋🏻, meu nome é Marta, saiba um pouco sobre mim ...
 
 💻 Oi, tudo bem? 
-
-👩🏼‍💻 Trabalho como It Recruiter e estou aqui para encontrar os melhores talentos! 👀
    
-🔭 Atualmente trabalho freelance para uma consultoria de tecnologia de Lisboa, a ItRecruiter. 
+👩🏼‍💻 Atualmente trabalho freelance para uma consultoria de tecnologia de Lisboa, a ItRecruiter. 
  
 🌱 Estou em constante aprendizado.
-   Recentemente fui selecionada para fazer uma trilha de programação em parceria com a @Oracle + @Alura. 
-   Não basta saber recrutar também estou aprendendo a codar. 😉
+   Recentemente fui selecionada para fazer uma trilha de programação em parceria da DIO + GFT e estou animada para dar um start na minha carreira como QA.😉
 
 🏢 Empresas, estou #OpenToWork ✅ 
 
