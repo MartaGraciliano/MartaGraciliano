@@ -3,14 +3,15 @@
 ### 👋🏻, meu nome é Marta, saiba um pouco sobre mim ...
 
 💻 Oi, tudo bem? 
+
+Recentemente fui selecionada para fazer uma trilha de aprendizado em parceria da DIO + GFT e estou animada para dar um start na minha carreira como QA.😉
    
-👩🏼‍💻 Atualmente trabalho freelance para uma consultoria de tecnologia de Lisboa, a ItRecruiter, mas neste momento dei uma pausa nos freelas para me dedicar integralmente aos estudos do Bootcamp. 
+👩🏼‍💻 Atualmente trabalho freelance para uma consultoria de tecnologia de Lisboa, a ItRecruiter, mas, neste momento,  dei uma pausa nos freelas para me dedicar integralmente aos estudos do Bootcamp. 
  
 🌱 Estou em constante aprendizado.
 
-   Recentemente fui selecionada para fazer uma trilha de aprendizado em parceria da DIO + GFT e estou animada para dar um start na minha carreira como QA.😉
-
 🏢 Empresas, estou #OpenToWork ✅ 
+
  ♀️ Pronouns: Ela/Dela
  
 📌 Curto tecnologia 💻, trilha ⛰, rapel 🧗‍♀️, séries e filmes 📺, animais, em especial, my dogs 🐕🐕🐕, poesia📖... ahhh... eu amo ler poesia (só não me pergunte nome de livros, porque eu esqueço) 📚 curto tantas outras coisas, que aqui, não caberia. Mentira, caberiam sim! 😜 :trollface:
