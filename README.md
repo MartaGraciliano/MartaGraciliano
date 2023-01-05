@@ -1,7 +1,7 @@
 
  
 ### 👋🏻 Meu nome é Marta!
-  Saiba um pouco sobre mim ...
+   Saiba um pouco sobre mim ...
 
 
 💻 Estou participando do bootcamp em parceria da DIO + GFT e estou animada para dar um start na minha carreira como QA.😉
