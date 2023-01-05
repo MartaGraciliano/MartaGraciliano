@@ -21,8 +21,10 @@
   <a align="center" href="https://www.linkedin.com/in/martagraciliano" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a  align="center" href="https://api.whatsapp.com/send?phone=5521986101800"  target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
  
+ ##
  
- #🏢 Empresas, estou #OpenToWork ✅ 
+ 
+ 🏢 Empresas, estou #OpenToWork ✅ 
  
  ![download20230104144037](https://user-images.githubusercontent.com/89816943/210845697-e49b44c9-ca4f-434a-b0eb-6f3058c8ba2d.png)
  
