@@ -24,7 +24,7 @@
  ##
  
  
- 🏢 Empresas, estou #OpenToWork ✅ 
+ 🏢 Estou #OpenToWork ✅ 
  
  ![download20230104144037](https://user-images.githubusercontent.com/89816943/210845697-e49b44c9-ca4f-434a-b0eb-6f3058c8ba2d.png)
  
