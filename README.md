@@ -6,7 +6,7 @@
 
 💻 Estou participando do bootcamp em parceria da DIO + GFT e estou animada para dar um start na minha carreira como QA.😉
    
-👩🏼‍💻 Atualmente trabalho freelance para uma consultoria de tecnologia de Lisboa, a ItRecruiter, mas, neste momento,  dei uma pausa nos freelas para me dedicar integralmente aos estudos do Bootcamp. 
+👩🏼‍💻 Atualmente trabalho freelance para uma consultoria de tecnologia de Lisboa, a ItRecruiter, mas, neste momento,  parei com os freelas para me dedicar integralmente aos estudos do Bootcamp. 
  
 🌱 Estou em constante aprendizado.
 
