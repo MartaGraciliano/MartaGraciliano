@@ -8,7 +8,7 @@
    
 👩🏼‍💻 Faço freela para uma consultoria de tecnologia de Lisboa, a ItRecruiter, mas, neste momento,  parei com os freelas para me dedicar integralmente aos estudos do Bootcamp. 
 
-📌 Nas horas vagas, gosto de fazer trilha ⛰,  assistir filmes e séries 📺 e ficar com meus 🐕🐕🐕
+📌 Nas horas vagas, gosto de fazer trilha ⛰,  assistir filmes e séries 📺 e ficar com minha família e meus 🐕🐕🐕
  
 🌱 Estou em constante aprendizado.
 
