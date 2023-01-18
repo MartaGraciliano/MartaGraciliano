@@ -1,6 +1,4 @@
 
- 
-
  Saiba um pouco sobre mim ...
  
  ![welcomeglitch](https://user-images.githubusercontent.com/89816943/213179710-66368a05-ce8f-408f-9a33-e76719f76490.gif) Meu nome é Marta e estou em transição de carreira para a área de testes de software. 
@@ -16,10 +14,6 @@
 
  ♀️ Pronouns: Ela/Dela
  
-
-
-![GIF](https://user-images.githubusercontent.com/89816943/213175084-a94b40db-6b3e-4a24-a5b2-0ce01263b781.gif)
-
  
 📫 Quer falar comigo? Clique aqui ↙
 
@@ -27,17 +21,12 @@
   <a align="center" href="https://www.linkedin.com/in/martagraciliano" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a  align="center" href="https://api.whatsapp.com/send?phone=5521986101800"  target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
  
-<a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/55be97772ca08f27c3a30161a67abb8d.gif" width="300" height="300" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/">https://picasion.com/</a>
-
  
  ##
  
+ 🏢 Empresas, estou #OpenToWork ✅ 
  
- 🏢 Estou #OpenToWork ✅ 
- 
- ![download20230104144037](https://user-images.githubusercontent.com/89816943/210845697-e49b44c9-ca4f-434a-b0eb-6f3058c8ba2d.png)
-
-</div>
+ <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/87cda3afdcfc4dea905372aabbc34988.gif" width="300" height="300" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
   
   
 
