@@ -4,15 +4,17 @@
  Saiba um pouco sobre mim ...
  
 
-💻 Estou participando do bootcamp em parceria da DIO + GFT e estou animada para dar um start na minha carreira como QA.😉
+💻 Estou participando do bootcamp em parceria da **DIO + GFT** e estou animada para dar um start na minha carreira como QA.😉
    
-👩🏼‍💻 Atualmente trabalho freelance para uma consultoria de tecnologia de Lisboa, a ItRecruiter, mas, neste momento,  parei com os freelas para me dedicar integralmente aos estudos do Bootcamp. 
+👩🏼‍💻 Faço freela para uma consultoria de tecnologia de Lisboa, a ItRecruiter, mas, neste momento,  parei com os freelas para me dedicar integralmente aos estudos do Bootcamp. 
+
+📌 Nas horas vagas, gosto de fazer trilha ⛰,  assistir filmes e séries 📺 e ficar com meus 🐕🐕🐕
  
 🌱 Estou em constante aprendizado.
 
  ♀️ Pronouns: Ela/Dela
  
-📌 Nas horas vagas, gosto de fazer trilha ⛰,  assistir filmes e séries 📺 e ficar com meus 🐕🐕🐕
+
 
 ![GIF](https://user-images.githubusercontent.com/89816943/213175084-a94b40db-6b3e-4a24-a5b2-0ce01263b781.gif)
 
