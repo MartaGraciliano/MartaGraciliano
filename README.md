@@ -1,7 +1,7 @@
 
- Saiba um pouco sobre mim ...
+<h1><em> Saiba um pouco sobre mim ...</em></h1>
  
- ![welcomeglitch](https://user-images.githubusercontent.com/89816943/213179710-66368a05-ce8f-408f-9a33-e76719f76490.gif) Meu nome é Marta e estou em transição de carreira para a área de testes de software. 
+ ![welcomeglitch](https://user-images.githubusercontent.com/89816943/213179710-66368a05-ce8f-408f-9a33-e76719f76490.gif) Meu nome é Marta e estou em <em>**transição de carreira para a área de testes de software.**</em>
  
 
 💻 Estou participando do bootcamp em parceria da **DIO + GFT** e estou animada para dar um start na minha carreira como QA.😉
