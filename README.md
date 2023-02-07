@@ -1,5 +1,8 @@
 
-<h1><em> Saiba um pouco sobre mim ...</em></h1>
+
+ <div align="center"> <h1><em> Saiba um pouco sobre mim ...</em></h1>
+ 
+  <div align="left">
  
  ![welcomeglitch](https://user-images.githubusercontent.com/89816943/213179710-66368a05-ce8f-408f-9a33-e76719f76490.gif) Meu nome é Marta e estou em <em>**transição de carreira para a área de testes de software.**</em>
  
@@ -8,7 +11,7 @@
    
 👩🏼‍💻 Faço freela para uma consultoria de tecnologia de Lisboa, a ItRecruiter, mas, neste momento,  parei com os freelas para me dedicar integralmente aos estudos do Bootcamp. 
 
-📌 Nas horas vagas, gosto de fazer trilha ⛰,  assistir filmes e séries 📺 e ficar com minha família e meus 🐕🐕🐕
+📌 Nas horas vagas, gosto de fazer trilha ⛰,  assistir filmes e séries 📺  ficar com minha família e meus 🐕🐕🐕
  
 🌱 Estou em constante aprendizado.
 
@@ -23,10 +26,12 @@
  
  
  ##
- 
+  <div align="center">
+   
  🏢 Empresas, estou #OpenToWork ✅ 
+   
  
- <a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/87cda3afdcfc4dea905372aabbc34988.gif" width="300" height="300" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
+<a href="https://picasion.com/"><img src="https://i.picasion.com/pic92/87cda3afdcfc4dea905372aabbc34988.gif" width="300" height="300" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
   
   
 ![snake gif](https://github.com/martagraciliano/martagraciliano/blob/output/github-contribution-grid-snake.svg)
