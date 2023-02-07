@@ -4,7 +4,7 @@
  
   <div align="left">
  
- ![welcomeglitch](https://user-images.githubusercontent.com/89816943/213179710-66368a05-ce8f-408f-9a33-e76719f76490.gif) Meu nome é Marta e estou em <em>**transição de carreira para a área de testes de software.**</em>
+ ![welcomeglitch](https://user-images.githubusercontent.com/89816943/213179710-66368a05-ce8f-408f-9a33-e76719f76490.gif) Meu nome é Marta e estou em <em>**transição de carreira para a área de Testes de Software.**</em>
  
 
 💻 Estou participando do bootcamp em parceria da **DIO + GFT** e estou animada para dar um start na minha carreira como QA.😉
