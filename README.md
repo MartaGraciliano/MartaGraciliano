@@ -9,7 +9,7 @@
 
 💻 Estou estudando muito e estou animada para dar um start na minha carreira como QA.😉
    
-👩🏼‍💻 Faço freela para uma consultoria de tecnologia de Lisboa, a ItRecruiter, mas, neste momento,  parei com os freelas para me dedicar integralmente aos estudos do Bootcamp. 
+👩🏼‍💻 Neste momento estou me dedicando integralmente aos estudos na Qa.Coders
 
 📌 Nas horas vagas, gosto de fazer trilha ⛰,  assistir filmes e séries 📺  ficar com minha família e meus 🐕🐕🐕
  
