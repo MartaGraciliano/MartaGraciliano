@@ -9,7 +9,7 @@
 
 💻 Estou estudando muito e estou animada para dar um start na minha carreira como QA.😉
    
-👩🏼‍💻 Neste momento estou me dedicando integralmente aos estudos na Qa.Coders
+👩🏼‍💻 Neste momento estou me dedicando integralmente aos estudos de Qualidade de Software na Qa.Coders e também faço curso de AWS na Escola da Nuvem.☁️ 
 
 📌 Nas horas vagas, gosto de fazer trilha ⛰,  assistir filmes e séries 📺  ficar com minha família e meus 🐕🐕🐕
  
