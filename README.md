@@ -4,7 +4,7 @@
  
   <div align="left">
  
- ![welcomeglitch](https://user-images.githubusercontent.com/89816943/213179710-66368a05-ce8f-408f-9a33-e76719f76490.gif) Meu nome é Marta e estou em <em>**transição de carreira para a área de Testes de Software.**</em> ![image](https://user-images.githubusercontent.com/89816943/217347562-482b8815-73bc-4ac3-b3fc-89388256406f.png)
+ ![welcomeglitch](https://user-images.githubusercontent.com/89816943/213179710-66368a05-ce8f-408f-9a33-e76719f76490.gif) Meu nome é **Marta** e estou em <em>**transição de carreira para a área de Testes de Software.**</em> ![image](https://user-images.githubusercontent.com/89816943/217347562-482b8815-73bc-4ac3-b3fc-89388256406f.png)
  
 
 💻 Estou estudando muito e estou animada para dar start na minha carreira como QA.😉
