@@ -10,7 +10,7 @@ Graduada em Gestão de Recursos Humanos, trago mais de duas décadas de experiê
 
 Em 2021, atuei como Tech Recruiter freelancer, mergulhando nos domínios do Backend, Frontend, Fullstack, UX/UI, Java e QA, entre outras stacks.
 
-"Uma mente curiosa encontrou na tecnologia não apenas uma profissão, mas sim um universo de possibilidades a explorar. Agora, em busca da tecnologia ideal para transformar minha paixão em carreira de sucesso.
+Uma mente curiosa encontrou na tecnologia não apenas uma profissão, mas sim um universo de possibilidades a explorar. Agora, em busca da tecnologia ideal para transformar minha paixão em carreira de sucesso.
 
 Principais Contribuições:
 
