@@ -5,10 +5,19 @@
   <div align="left">
  
  ![welcomeglitch](https://user-images.githubusercontent.com/89816943/213179710-66368a05-ce8f-408f-9a33-e76719f76490.gif) Meu nome é **Marta**! <em></em> ![image](https://user-images.githubusercontent.com/89816943/217347562-482b8815-73bc-4ac3-b3fc-89388256406f.png)
-Profissional com ampla experiência em administração, recursos humanos e vendas, em transição para a área de tecnologia. Estudando Análise e Desenvolvimento de Sistemas e cursando a Jornada da Capacitação em Produtos - Da Teoria à Prática, com foco em Product Discovery, Persona, MVP, Roadmap, Backlog, Priorização, Agilidade e Métricas. Possuo conhecimentos em Cloud AWS e metodologias ágeis (Scrum com Azure DevOps).
-Busco estágio na área de gestão de produtos (Product Manager) para combinar visão estratégica e desenvolvimento de soluções inovadoras alinhadas às demandas do mercado.
+Experiência em recrutamento e seleção com foco em sourcing para vagas de tecnologia. Atuação com hunting ativo, pesquisa booleana e mapeamento de perfis em plataformas como LinkedIn, GitHub e Discord, além de triagem de currículos e contato com candidatos.
  
-📌 Nas horas vagas, gosto de fazer trilha ⛰,  assistir filmes e séries 📺  ficar com minha família e meus 🐕🐕🐕
+Formação em Gestão de Recursos Humanos e atualmente cursando Análise e Desenvolvimento de Sistemas, o que fortalece a compreensão de perfis técnicos e das demandas do mercado de tecnologia.
+ 
+Possuo experiência anterior em áreas administrativas, financeiras e empreendedorismo, contribuindo para organização de processos, atenção a detalhes e gestão de múltiplas demandas.
+ 
+Conhecimentos em metodologias ágeis, ferramentas como Jira, Trello e Azure DevOps. Perfil organizado, analítico e com facilidade em aprender, buscando atuar como Assistente de Sourcing na área de tecnologia.
+
+Sou proativa e colaborativa, com foco em qualidade, responsabilidade e excelência. 
+Adoraria a oportunidade de conversar e explorar novas possibilidades no setor de tecnologia.
+Caso queira entrar em contato, é só clicar nas informações de contato acima.
+ 
+📌 Nas horas vagas faço treino musculação 💪🏻, gosto de assistir filmes e séries 📺  ficar com minha família e meus 🐕🐕🐕
  
 🌱 Estou em constante aprendizado.
 
