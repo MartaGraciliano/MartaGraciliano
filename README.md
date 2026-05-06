@@ -17,7 +17,7 @@ Sou proativa e colaborativa, com foco em qualidade, responsabilidade e excelênc
 Adoraria a oportunidade de conversar e explorar novas possibilidades no setor de tecnologia.
 Caso queira entrar em contato, é só clicar nas informações de contato acima.
  
-📌 Nas horas vagas faço treino musculação 💪🏻, gosto de assistir filmes e séries 📺  ficar com minha família e meus 🐕🐕🐕
+📌 Nas horas vagas faço treino de musculação 💪🏻, gosto de assistir filmes e séries 📺 de ficar com minha família e meus 🐕🐕🐕
  
 🌱 Estou em constante aprendizado.
 
